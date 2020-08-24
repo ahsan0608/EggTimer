@@ -7,27 +7,31 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		7802E30924F3CF9D00D247F6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7802E30824F3CF9D00D247F6 /* AppDelegate.swift */; };
-		7802E30B24F3CF9D00D247F6 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7802E30A24F3CF9D00D247F6 /* SceneDelegate.swift */; };
-		7802E30D24F3CF9D00D247F6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7802E30C24F3CF9D00D247F6 /* ViewController.swift */; };
-		7802E31024F3CF9D00D247F6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7802E30E24F3CF9D00D247F6 /* Main.storyboard */; };
-		7802E31224F3CFA200D247F6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7802E31124F3CFA200D247F6 /* Assets.xcassets */; };
-		7802E31524F3CFA200D247F6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7802E31324F3CFA200D247F6 /* LaunchScreen.storyboard */; };
+		AD5C106222D34E35001E14A5 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = AD5C106122D34E35001E14A5 /* README.md */; };
+		AD5C106622D36212001E14A5 /* alarm_sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AD5C106522D36212001E14A5 /* alarm_sound.mp3 */; };
+		ADF037EE22D332A800A69E9A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF037ED22D332A800A69E9A /* AppDelegate.swift */; };
+		ADF037F022D332A800A69E9A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF037EF22D332A800A69E9A /* SceneDelegate.swift */; };
+		ADF037F222D332A800A69E9A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF037F122D332A800A69E9A /* ViewController.swift */; };
+		ADF037F522D332A800A69E9A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ADF037F322D332A800A69E9A /* Main.storyboard */; };
+		ADF037F722D332AD00A69E9A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ADF037F622D332AD00A69E9A /* Assets.xcassets */; };
+		ADF037FA22D332AD00A69E9A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ADF037F822D332AD00A69E9A /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		7802E30524F3CF9D00D247F6 /* EggTimer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EggTimer.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		7802E30824F3CF9D00D247F6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		7802E30A24F3CF9D00D247F6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		7802E30C24F3CF9D00D247F6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		7802E30F24F3CF9D00D247F6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		7802E31124F3CFA200D247F6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		7802E31424F3CFA200D247F6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		7802E31624F3CFA200D247F6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AD5C106122D34E35001E14A5 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		AD5C106522D36212001E14A5 /* alarm_sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = alarm_sound.mp3; sourceTree = "<group>"; };
+		ADF037EA22D332A800A69E9A /* EggTimer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EggTimer.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		ADF037ED22D332A800A69E9A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		ADF037EF22D332A800A69E9A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		ADF037F122D332A800A69E9A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		ADF037F422D332A800A69E9A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		ADF037F622D332AD00A69E9A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		ADF037F922D332AD00A69E9A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		ADF037FB22D332AD00A69E9A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		7802E30224F3CF9C00D247F6 /* Frameworks */ = {
+		ADF037E722D332A800A69E9A /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -37,32 +41,34 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		7802E2FC24F3CF9C00D247F6 = {
+		ADF037E122D332A800A69E9A = {
 			isa = PBXGroup;
 			children = (
-				7802E30724F3CF9D00D247F6 /* EggTimer */,
-				7802E30624F3CF9D00D247F6 /* Products */,
+				AD5C106122D34E35001E14A5 /* README.md */,
+				ADF037EC22D332A800A69E9A /* EggTimer */,
+				ADF037EB22D332A800A69E9A /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		7802E30624F3CF9D00D247F6 /* Products */ = {
+		ADF037EB22D332A800A69E9A /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				7802E30524F3CF9D00D247F6 /* EggTimer.app */,
+				ADF037EA22D332A800A69E9A /* EggTimer.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		7802E30724F3CF9D00D247F6 /* EggTimer */ = {
+		ADF037EC22D332A800A69E9A /* EggTimer */ = {
 			isa = PBXGroup;
 			children = (
-				7802E30824F3CF9D00D247F6 /* AppDelegate.swift */,
-				7802E30A24F3CF9D00D247F6 /* SceneDelegate.swift */,
-				7802E30C24F3CF9D00D247F6 /* ViewController.swift */,
-				7802E30E24F3CF9D00D247F6 /* Main.storyboard */,
-				7802E31124F3CFA200D247F6 /* Assets.xcassets */,
-				7802E31324F3CFA200D247F6 /* LaunchScreen.storyboard */,
-				7802E31624F3CFA200D247F6 /* Info.plist */,
+				ADF037ED22D332A800A69E9A /* AppDelegate.swift */,
+				ADF037EF22D332A800A69E9A /* SceneDelegate.swift */,
+				ADF037F122D332A800A69E9A /* ViewController.swift */,
+				ADF037F322D332A800A69E9A /* Main.storyboard */,
+				ADF037F622D332AD00A69E9A /* Assets.xcassets */,
+				AD5C106522D36212001E14A5 /* alarm_sound.mp3 */,
+				ADF037F822D332AD00A69E9A /* LaunchScreen.storyboard */,
+				ADF037FB22D332AD00A69E9A /* Info.plist */,
 			);
 			path = EggTimer;
 			sourceTree = "<group>";
@@ -70,13 +76,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		7802E30424F3CF9C00D247F6 /* EggTimer */ = {
+		ADF037E922D332A800A69E9A /* EggTimer */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 7802E31924F3CFA200D247F6 /* Build configuration list for PBXNativeTarget "EggTimer" */;
+			buildConfigurationList = ADF037FE22D332AD00A69E9A /* Build configuration list for PBXNativeTarget "EggTimer" */;
 			buildPhases = (
-				7802E30124F3CF9C00D247F6 /* Sources */,
-				7802E30224F3CF9C00D247F6 /* Frameworks */,
-				7802E30324F3CF9C00D247F6 /* Resources */,
+				ADF037E622D332A800A69E9A /* Sources */,
+				ADF037E722D332A800A69E9A /* Frameworks */,
+				ADF037E822D332A800A69E9A /* Resources */,
 			);
 			buildRules = (
 			);
@@ -84,25 +90,25 @@
 			);
 			name = EggTimer;
 			productName = EggTimer;
-			productReference = 7802E30524F3CF9D00D247F6 /* EggTimer.app */;
+			productReference = ADF037EA22D332A800A69E9A /* EggTimer.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		7802E2FD24F3CF9C00D247F6 /* Project object */ = {
+		ADF037E222D332A800A69E9A /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastSwiftUpdateCheck = 1160;
-				LastUpgradeCheck = 1160;
-				ORGANIZATIONNAME = Ahsan.fish;
+				LastSwiftUpdateCheck = 1100;
+				LastUpgradeCheck = 1100;
+				ORGANIZATIONNAME = "The App Brewery";
 				TargetAttributes = {
-					7802E30424F3CF9C00D247F6 = {
-						CreatedOnToolsVersion = 11.6;
+					ADF037E922D332A800A69E9A = {
+						CreatedOnToolsVersion = 11.0;
 					};
 				};
 			};
-			buildConfigurationList = 7802E30024F3CF9C00D247F6 /* Build configuration list for PBXProject "EggTimer" */;
+			buildConfigurationList = ADF037E522D332A800A69E9A /* Build configuration list for PBXProject "EggTimer" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -110,55 +116,57 @@
 				en,
 				Base,
 			);
-			mainGroup = 7802E2FC24F3CF9C00D247F6;
-			productRefGroup = 7802E30624F3CF9D00D247F6 /* Products */;
+			mainGroup = ADF037E122D332A800A69E9A;
+			productRefGroup = ADF037EB22D332A800A69E9A /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				7802E30424F3CF9C00D247F6 /* EggTimer */,
+				ADF037E922D332A800A69E9A /* EggTimer */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		7802E30324F3CF9C00D247F6 /* Resources */ = {
+		ADF037E822D332A800A69E9A /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7802E31524F3CFA200D247F6 /* LaunchScreen.storyboard in Resources */,
-				7802E31224F3CFA200D247F6 /* Assets.xcassets in Resources */,
-				7802E31024F3CF9D00D247F6 /* Main.storyboard in Resources */,
+				ADF037FA22D332AD00A69E9A /* LaunchScreen.storyboard in Resources */,
+				AD5C106622D36212001E14A5 /* alarm_sound.mp3 in Resources */,
+				ADF037F722D332AD00A69E9A /* Assets.xcassets in Resources */,
+				AD5C106222D34E35001E14A5 /* README.md in Resources */,
+				ADF037F522D332A800A69E9A /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		7802E30124F3CF9C00D247F6 /* Sources */ = {
+		ADF037E622D332A800A69E9A /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7802E30D24F3CF9D00D247F6 /* ViewController.swift in Sources */,
-				7802E30924F3CF9D00D247F6 /* AppDelegate.swift in Sources */,
-				7802E30B24F3CF9D00D247F6 /* SceneDelegate.swift in Sources */,
+				ADF037F222D332A800A69E9A /* ViewController.swift in Sources */,
+				ADF037EE22D332A800A69E9A /* AppDelegate.swift in Sources */,
+				ADF037F022D332A800A69E9A /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		7802E30E24F3CF9D00D247F6 /* Main.storyboard */ = {
+		ADF037F322D332A800A69E9A /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				7802E30F24F3CF9D00D247F6 /* Base */,
+				ADF037F422D332A800A69E9A /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		7802E31324F3CFA200D247F6 /* LaunchScreen.storyboard */ = {
+		ADF037F822D332AD00A69E9A /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				7802E31424F3CFA200D247F6 /* Base */,
+				ADF037F922D332AD00A69E9A /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -166,7 +174,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		7802E31724F3CFA200D247F6 /* Debug */ = {
+		ADF037FC22D332AD00A69E9A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -216,7 +224,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.6;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -226,7 +234,7 @@
 			};
 			name = Debug;
 		};
-		7802E31824F3CFA200D247F6 /* Release */ = {
+		ADF037FD22D332AD00A69E9A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -270,7 +278,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.6;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
@@ -280,7 +288,7 @@
 			};
 			name = Release;
 		};
-		7802E31A24F3CFA200D247F6 /* Debug */ = {
+		ADF037FF22D332AD00A69E9A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -290,14 +298,14 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.lucky.soft.nothing.EggTimer;
+				PRODUCT_BUNDLE_IDENTIFIER = co.appbrewery.EggTimer;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		7802E31B24F3CFA200D247F6 /* Release */ = {
+		ADF0380022D332AD00A69E9A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -307,7 +315,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.lucky.soft.nothing.EggTimer;
+				PRODUCT_BUNDLE_IDENTIFIER = co.appbrewery.EggTimer;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -317,25 +325,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		7802E30024F3CF9C00D247F6 /* Build configuration list for PBXProject "EggTimer" */ = {
+		ADF037E522D332A800A69E9A /* Build configuration list for PBXProject "EggTimer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				7802E31724F3CFA200D247F6 /* Debug */,
-				7802E31824F3CFA200D247F6 /* Release */,
+				ADF037FC22D332AD00A69E9A /* Debug */,
+				ADF037FD22D332AD00A69E9A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		7802E31924F3CFA200D247F6 /* Build configuration list for PBXNativeTarget "EggTimer" */ = {
+		ADF037FE22D332AD00A69E9A /* Build configuration list for PBXNativeTarget "EggTimer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				7802E31A24F3CFA200D247F6 /* Debug */,
-				7802E31B24F3CFA200D247F6 /* Release */,
+				ADF037FF22D332AD00A69E9A /* Debug */,
+				ADF0380022D332AD00A69E9A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 7802E2FD24F3CF9C00D247F6 /* Project object */;
+	rootObject = ADF037E222D332A800A69E9A /* Project object */;
 }
